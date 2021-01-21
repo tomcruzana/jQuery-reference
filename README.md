@@ -1,2 +1,2 @@
-# PSD-to-HTML-1
+# 💻 jQuery Sandbox
 Handy jQuery Sandbox and Snippets
